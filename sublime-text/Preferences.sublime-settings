@@ -1,0 +1,46 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"findreplace_small": true,
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"font_face": "menlo",
+	"font_options": "subpixel_antialias",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1.5,
+	"line_padding_top": 1.5,
+	"save_on_focus_lost": true,
+	"settings":
+	{
+		"phpcoverage":
+		{
+			"debug": true,
+			"report_path": "tests/target/logs/clover.xml"
+		}
+	},
+	"sidebar_small": true,
+	"tab_size": 2,
+	"tabs_medium": true,
+	"theme": "itg.flat.dark.orange.sublime-theme",
+	"itg_sidebar_tree_small": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true
+}
